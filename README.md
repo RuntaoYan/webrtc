@@ -30,5 +30,6 @@ https://github.com/chr15m/bugout
 
 See also: 
 - rtcpeerconnection.createoffer
+
 https://webrtc.github.io/samples/src/content/peerconnection/create-offer/
 https://github.com/webrtc/samples/tree/gh-pages/src/content/peerconnection/create-offer
