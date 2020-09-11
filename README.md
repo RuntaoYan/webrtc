@@ -20,11 +20,9 @@ This is a tech demo of using WebRTC without a signaling server -- the WebRTC off
       
 - TODO: upload working code. 
 
-Another similiar example (in working conditioin as of 2020 september):
-
+- Another similiar example (in working conditioin as of 2020 september):
 https://www.mobilefish.com/download/webrtc/webrtc_noserver.html
   
+
+- This project us webtorrent tracker server for signalling.
 https://github.com/chr15m/bugout
-
-This project us webtorrent tracker server for signalling.
-
