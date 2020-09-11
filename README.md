@@ -18,7 +18,7 @@ This is a tech demo of using WebRTC without a signaling server -- the WebRTC off
 >// attachMediaStream(el, e.stream)
 >>   el.srcObject = e.stream
       
-- <mark>TODO: upload working code. </mark>
+- <b>TODO: upload working code. </b>
 
 - Another similiar example (in working conditioin as of 2020 september):
 https://www.mobilefish.com/download/webrtc/webrtc_noserver.html
