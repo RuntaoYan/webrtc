@@ -12,7 +12,7 @@ This is a tech demo of using WebRTC without a signaling server -- the WebRTC off
 
 - Better use updated adapter.js, jquery and bootstrap. 
 ><script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
-code needed to be changed: 
+- code needed to be changed: 
 >// video.src = window.URL.createObjectURL(stream)
 >>   video.srcObject=stream
 >// attachMediaStream(el, e.stream)
@@ -21,8 +21,10 @@ code needed to be changed:
 - TODO: upload working code. 
 
 Another similiar example (in working conditioin as of 2020 september):
+
 https://www.mobilefish.com/download/webrtc/webrtc_noserver.html
   
 https://github.com/chr15m/bugout
+
 This project us webtorrent tracker server for signalling.
 
